@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/manishmotirale/Daily-Coading/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/manishmotirale/Daily-Coading/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0746-min-cost-climbing-stairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
