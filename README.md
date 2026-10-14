@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/manishmotirale/Daily-Coading/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishmotirale/Daily-Coading/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishmotirale/Daily-Coading/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
