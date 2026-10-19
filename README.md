@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/manishmotirale/Daily-Coading/tree/master/0983-minimum-cost-for-tickets) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishmotirale/Daily-Coading/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/manishmotirale/Daily-Coading/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishmotirale/Daily-Coading/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/manishmotirale/Daily-Coading/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishmotirale/Daily-Coading/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
