@@ -1,17 +1,23 @@
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int bestBuy = prices[0];
-        int maxProfit = 0;
-        int n = prices.size();
+#include <algorithm>
+#include <iostream>
+#include <vector>
+using namespace std;
 
-        for (int i = 0; i < n; i++) {
-            int cost = prices[i] - bestBuy;
-            maxProfit = max(maxProfit, cost);
+// This function calculates the maximum profit that can be achieved from a list
+// of stock prices.
 
-            bestBuy = min(bestBuy, prices[i]);
-        }
+// TC: O(n), SC: O(1)
+int maxProfit(vector<int> &prices) {
+    int bestBuy = prices[0];
+    int maxProfit = 0;
+    int n = prices.size();
 
-        return maxProfit;
+    for (int i = 0; i < n; i++) {
+        int cost = prices[i] - bestBuy;
+        maxProfit = max(maxProfit, cost);
+
+        bestBuy = min(bestBuy, prices[i]);
     }
-};
+
+    return maxProfit;
+}
