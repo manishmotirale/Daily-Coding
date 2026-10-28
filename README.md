@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/manishmotirale/Daily-Coading/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manishmotirale/Daily-Coading/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/manishmotirale/Daily-Coading/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/manishmotirale/Daily-Coading/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishmotirale/Daily-Coading/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/manishmotirale/Daily-Coading/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manishmotirale/Daily-Coading/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/manishmotirale/Daily-Coading/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/manishmotirale/Daily-Coading/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishmotirale/Daily-Coading/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -233,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/manishmotirale/Daily-Coading/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
