@@ -1,32 +1,36 @@
 class Solution {
 public:
     int minCost(int n, vector<int>& cuts) {
-        sort(cuts.begin(), cuts.end());
+            cuts.push_back(n);
+            cuts.insert(cuts.begin(), 0);
 
-        cuts.insert(cuts.begin(), 0);
-        cuts.push_back(n);
+            sort(cuts.begin(), cuts.end());
 
-        int N = cuts.size();
+            vector<vector<int>> dp(cuts.size(), vector<int>(cuts.size(), 0));
 
-        vector<vector<int>> dp(N, vector<int>(N, 0));
+            for (int i = cuts.size() - 2; i >= 1; i--) {
+                    for (int j = i; j <= cuts.size() - 2; j++) {
+                            if (i > j)
+                continue;
 
-        for (int len = 2; len < N; len++) {
-            for (int i = 0; i + len < N; i++) {
-                int j = i + len;
-                int cost = INT_MAX;
+                            int mini = 1e9;
 
-                for (int k = i + 1; k < j; k++) {
-                    int totalCost = cuts[j] - cuts[i]
-                                  + dp[i][k]
-                                  + dp[k][j];
+                            for (int idx = i; idx <= j; idx++) {
+                                    // Current cut cost + left and right partition costs
+                int cost =
+                    cuts[j + 1] - cuts[i - 1] + dp[i][idx - 1] +
+                        dp[idx + 1][j];
 
-                    cost = min(cost, totalCost);
+                                    mini = min(mini, cost);
+                               
                 }
 
-                dp[i][j] = (cost == INT_MAX) ? 0 : cost;
+                            dp[i][j] = mini;
+                       
             }
+               
         }
 
-        return dp[0][N - 1];
+            return dp[1][cuts.size() - 2];
     }
 };
